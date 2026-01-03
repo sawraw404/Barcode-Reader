@@ -92,7 +92,7 @@ with tab1:
     # Input text
     input_text = st.text_input(
         "Enter text to encode:",
-        value="Syeda Sara Afzaal",
+        value="Enter Text Here!",
         help="Enter any text with letters and spaces"
     )
     
@@ -215,3 +215,4 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+
