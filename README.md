@@ -6,6 +6,10 @@ A Python-based custom barcode encoding and decoding system with an interactive S
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.31.0-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+## 🌐 Live Demo
+
+Try the application online: **[Barcode Reader Web App](https://barcode-reader-1001.streamlit.app/)**
+
 ## 🌟 Features
 
 - **Text to Barcode Encoding**: Convert any text (letters and spaces) into a custom barcode format
