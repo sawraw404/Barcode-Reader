@@ -13,7 +13,7 @@ st.set_page_config(
 
 def encode_barcode(text):
     """Encode text into a barcode image"""
-    width, height = 800, 400
+    width, height = 400, 800
     step = 9
     img = np.ones((height, width), dtype=np.uint8) * 255  # white canvas
 
@@ -196,4 +196,5 @@ st.markdown(
     </div>
     """,
     unsafe_allow_html=True
+
 )
